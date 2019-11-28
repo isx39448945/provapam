@@ -1,7 +1,7 @@
 # provapam
 ## ASIX M06-ASO @isx39448945 Curs 2019-2020
 
-docker hub: https://hub.docker.com/repository/docker/adrinarvaez/provapam
+docker hub: https://hub.docker.com/repository/docker/adrinarvaez/hostpam19
 github: https://github.com/isx39448945/provapam
 
 Execució de l'exercici: 
